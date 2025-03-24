@@ -1,0 +1,8 @@
+name = "claude-wrapper"
+main = "src/index.js"
+compatibility_date = "2024-03-23"
+usage_model = "bundled"
+
+[vars]
+# You can also set this via 'wrangler secret put ANTHROPIC_API_KEY'
+# ANTHROPIC_API_KEY = "your-api-key"
